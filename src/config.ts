@@ -2,6 +2,8 @@ export const SITE = {
   website: "https://rojo.netlify.app/", // replace this with your deployed domain
   author: "Alessandro Rojo",
   title: "Rojo",
+  desc: "Blog de desarrollo, ideas y exploraciones de Alessandro Rojo", // 🔧 nueva línea
+  profile: "/images/profile.png", // 🔧 nueva línea o la ruta que uses
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
