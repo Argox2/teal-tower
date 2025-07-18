@@ -13,6 +13,8 @@ description:
   theme.
 ---
 
+Hola.
+
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
 
 <figure>
