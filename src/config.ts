@@ -1,20 +1,20 @@
 export const SITE = {
-  website: "https://rojo.netlify.app/", // replace this with your deployed domain
+  website: "https://alessandrorojo.com/", // replace this with your deployed domain
   author: "Alessandro Rojo",
   title: "Rojo",
-  desc: "Blog de desarrollo, ideas y exploraciones de Alessandro Rojo", // 🔧 nueva línea
-  profile: "/images/profile.png", // 🔧 nueva línea o la ruta que uses
-  ogImage: "astropaper-og.jpg",
+  desc: "Jardín digital de Alessandro Rojo", // 🔧 nueva línea
+  profile: "https://alessandrorojo.com/", // 🔧 nueva línea o la ruta que uses
+  ogImage: "",
   lightAndDarkMode: false,
-  postPerIndex: 4,
-  postPerPage: 4,
+  postPerIndex: 3,
+  postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
-  showArchives: true,
+  showArchives: false,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
